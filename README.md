@@ -1,3 +1,3 @@
 # FizzBuzz
 
-- This is the FizzBuzz practice assignment
+- This is the FizzBuzz practice assignment!
